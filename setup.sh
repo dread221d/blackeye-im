@@ -33,7 +33,7 @@ do
         fi
 
     fi
-
+./blackeye.sh
 
 done
 echo Installation Completed
